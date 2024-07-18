@@ -15,5 +15,5 @@ Lernziele können gross und klein sein, und es empfielt sich, beide Arten von Le
 Solche grosse Ziele lassen sich nicht schnell erreichen und es kann passieren, dass man sie nach einiger Zeit im Stress etwas aus den Augen verliert. Dafür können kleinere Ziele helfen. <br>
 Kleine Ziele ergeben sich oft aus den grossen Zielen. Überlege dir, welche Schritte du gehen musst, um zu deinem grossen Endziel zu gelangen. Ein Unterziel lässt sich wiederum auf weitere, noch kleinere Unterziele herunterbrechen. So kannst du immer weiter arbeiten, bis du dir einen Weg mit kleinen Schritten zu kleinen Zielen bis zum grossen Endziel gebaut hast. Dadurch hast du immer etwas, auf das du gerade hinarbeitest und das greifbar genuf ist, damit du es auch mit der aktuellen geleisteten Arbeit verbinden kannst. <br>
 Um kleinere Ziele zu finden, kann man mit einer Art Baumdiagramm, das grosse Ziel immer weiter herunterbrechen.
-![Baumdiagramm, um kleine Ziele zu finden](../Bilder/ziele.jpg "Baumdiagramm, um kleine Ziele zu finden")
+![Baumdiagramm, um kleine Ziele zu finden](./img/baumdiagramm.jpg "Baumdiagramm, um kleine Ziele zu finden")
 
